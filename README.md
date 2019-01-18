@@ -1,0 +1,2 @@
+# genHor
+Generator tytułów horrorów
