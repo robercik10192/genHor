@@ -3,6 +3,9 @@ var co = [
 "Atak",
 "Spisek",
 "Inwazja",
+"Terror",
+"Napad",
+"Tragedia"
 ];
 
 var jakich = [
@@ -13,6 +16,10 @@ var jakich = [
 "pokręconych",
 "śmiertelnych",
 "głupich",
+"nadętych",
+"dziwnych",
+"parabolicznych",
+"sinokoperkowych",
 "śmiesznych",
 "ciekawych"
 ];
@@ -28,6 +35,15 @@ var czego = [
 	"kamieni",
 	"koni",
 	"krów",
+	"dzików",
+	"chrząszczy",
+	"kurtek",
+	"opon",
+	"dzbanów",
+	"kości",
+	"butelek",
+	"jednorożców",
+	"okien",
 	"jeleni"
 ];
 
